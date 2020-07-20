@@ -18,7 +18,7 @@ class School
    
   def sort
     sorted_roster = {}
-    roster.each do { |students, grade| } 
+    roster.each { |students, grade| } 
     
   end
     
