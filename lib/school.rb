@@ -1,6 +1,6 @@
 class School 
   
-  attr_accessor :school, :roster
+  attr_accessor :name, :roster
   
   def initialize(school, roster)
     @school = school
