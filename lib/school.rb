@@ -7,7 +7,13 @@ class School
     roster = {} 
   end
   
-  def 
+  def add_student 
+    
+  end
+  
+  def grade 
+    
+  end
    
     
 end
